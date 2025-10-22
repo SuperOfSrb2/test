@@ -1,0 +1,1 @@
+To play the 100% userfile you need to replace your userdata folder in your DLC folder with the one in here.
